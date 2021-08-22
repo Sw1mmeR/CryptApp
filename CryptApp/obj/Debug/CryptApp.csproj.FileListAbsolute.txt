@@ -1,0 +1,41 @@
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.csprojAssemblyReference.cache
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.Properties.Resources.resources
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.RegisterForm.resources
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.csproj.GenerateResource.cache
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.csproj.CoreCompileInputs.cache
+C:\CryptApp\CryptApp\bin\Debug\CryptApp.exe.config
+C:\CryptApp\CryptApp\bin\Debug\CryptApp.exe
+C:\CryptApp\CryptApp\bin\Debug\CryptApp.pdb
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.exe
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.pdb
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.LoginForm.resources
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.MainForm.resources
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.OpenFileForm.resources
+C:\CryptApp\CryptApp\obj\Debug\CryptApp.LoadForm.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\bin\Debug\CryptApp.exe.config
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\bin\Debug\CryptApp.exe
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\bin\Debug\CryptApp.pdb
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.csprojAssemblyReference.cache
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.LoadForm.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.LoginForm.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.MainForm.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.OpenFileForm.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.Properties.Resources.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.RegisterForm.resources
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.csproj.GenerateResource.cache
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.exe
+C:\Users\scrip\OneDrive\Рабочий стол\CryptApp\CryptApp\obj\Debug\CryptApp.pdb
+E:\Lessons\Programming\CryptApp\CryptApp\bin\Debug\CryptApp.exe.config
+E:\Lessons\Programming\CryptApp\CryptApp\bin\Debug\CryptApp.exe
+E:\Lessons\Programming\CryptApp\CryptApp\bin\Debug\CryptApp.pdb
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.csprojAssemblyReference.cache
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.LoadForm.resources
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.LoginForm.resources
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.MainForm.resources
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.OpenFileForm.resources
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.Properties.Resources.resources
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.RegisterForm.resources
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.csproj.GenerateResource.cache
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.csproj.CoreCompileInputs.cache
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.exe
+E:\Lessons\Programming\CryptApp\CryptApp\obj\Debug\CryptApp.pdb
